@@ -1,0 +1,28 @@
+body {
+  font-family: 'Merriweather', serif;
+}
+
+.hm {
+  margin-top: 1em;
+}
+
+.form {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.form-btn {
+  width: 100%;
+}
+
+.footer {
+  margin-top: 3em;
+  margin-bottom: 2em;
+  
+  text-align: center;
+}
+
+.footer span {
+  font-size: 0.8em;
+}
